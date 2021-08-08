@@ -28,7 +28,6 @@ document.addEventListener('keydown', (evt) => {
 function changeSlide(direction) {
   if (direction === 'up') {
     activeSlideIndex++
-    console.log(activeSlideIndex)
     if (activeSlideIndex === slidesCount) {
       activeSlideIndex = 0
     }
