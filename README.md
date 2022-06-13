@@ -1,5 +1,5 @@
-# Slider
-**Ссылка на проект [https://valeriy8500.github.io/Slider/]**
+# slider
+**Ссылка на проект [https://valeriy8500.github.io/slider/]**
 
 **В данном мини-проекте представлен слайдер, с атмосферной неоновой тематикой, написанный с помощью HTML и JavaScript(а) в связке с CSS**
 
